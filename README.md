@@ -3,13 +3,11 @@
 Projeto desenvolvido no 1º semestre de Análise e Desenvolvimento de Sistemas, com o objetivo de recriar a interface de um site existente com melhorias de design e usabilidade.
 
 ## 🔗 Protótipo no Figma
-[➡ Ver protótipo interativo](https://www.figma.com/proto/bQ64k9oQMjSgbLsI14hR5T/Untitled?node-id=402-81&t=MbBvQjiEtO6WjiyJ-1)
+[![Preview do Figma](design/preview.png)](https://www.figma.com/proto/bQ64k9oQMjSgbLsI14hR5T/Untitled?node-id=402-81&t=MbBvQjiEtO6WjiyJ-1)
 
-<iframe style="border:none;" width="100%" height="600"
-src="https://www.figma.com/embed?embed_host=share&url=https://www.figma.com/proto/bQ64k9oQMjSgbLsI14hR5T/Untitled?node-id=402-81&t=MbBvQjiEtO6WjiyJ-1"
-allowfullscreen></iframe>
+_Clique na imagem acima para visualizar o protótipo interativo no Figma._
 
-## 📸 Pré-visualização
+## 📸 Telas do Redesign
 | Página Inicial | Página de Transmissão |
 |----------------|-----------------------|
 | ![Home](design/home.png) | ![Transmissão](design/transmissao.png) |
