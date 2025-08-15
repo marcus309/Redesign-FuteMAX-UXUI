@@ -7,6 +7,13 @@ Projeto desenvolvido no 1º semestre de Análise e Desenvolvimento de Sistemas, 
 
 _Clique na imagem acima para visualizar o protótipo interativo no Figma._
 
+## 📐 Protótipo Inicial
+Antes do redesign final, foi criado um protótipo inicial no Figma para definir a estrutura e funcionalidades.
+
+| Protótipo Home | Protótipo Página de Transmissão |
+|----------------|--------------------------------|
+| ![Protótipo Home](design/prototipo-home.png) | ![Protótipo Transmissão](design/prototipo-transmissao.png) |
+
 ## 📸 Telas do Redesign
 | Página Inicial | Página de Transmissão |
 |----------------|-----------------------|
